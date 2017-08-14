@@ -13,7 +13,9 @@
   - [Adding a Route](4.2-custom-modules.md#adding-a-route)
   - [Adding a Menu Link](4.2-custom-modules.md#adding-a-menu-link)
   - [Additional Resources](4.2-custom-modules.md#additional-resources)
-- 4.3 - Data Storage
+- [4.3 - Data Storage](4.3-data-storage.md)
+  - [Database Support](4.3-data-storage.md#database-support)
+  - [Additional Resources](4.3-data-storage.md#additional-resources)
 - [4.4 - Essential APIs](4.4-essential-apis.md)
   - [Plugin API](4.4-essential-apis-plugin.md)
   - [Block API](4.4-essential-apis-block.md)
@@ -27,14 +29,15 @@
   - [Menu API](4.4-essential-apis-menu.md)
   - [Render API](4.4-essential-apis-render.md)
   - [Services and Dependency Injection](4.4-essential-apis-services.md)
+  - [Events](4.4-essential-apis-events.md)
   - [Update API](4.4-essential-apis-update.md)
-- 4.5 - Coding Standards
+- [4.5 - Coding Standards](4.5-coding-standards.md)
 - [4.6 - Performance](4.6-performance.md)
-  - [CSS/JS Aggregation](4.6-performance#cssjs-aggregation)
-  - [Cache Tags](4.6-performance#cache-tags)
-  - [Cache Contexts](4.6-performance#cache-contexts)
-  - [Core Performance Modules](4.6-performance#core-performance-modules)
-  - [Additional Resources](4.6-performance#additional-resources)
+  - [CSS/JS Aggregation](4.6-performance.md#cssjs-aggregation)
+  - [Cache Tags](4.6-performance.md#cache-tags)
+  - [Cache Contexts](4.6-performance.md#cache-contexts)
+  - [Core Performance Modules](4.6-performance.md#core-performance-modules)
+  - [Additional Resources](4.6-performance.md#additional-resources)
 - [4.7 - Security](4.7-security.md)
   - [Sanitizing Input](4.7-security.md#sanitizing-input)
   - [Generated *.php Files](4.7-security.md#generated-php-files)
@@ -43,3 +46,7 @@
   - [Keeping Your Site Up-to-date](4.7-security.md#keeping-your-site-up-to-date)
   - [Other Security Tips](4.7-security.md#other-security-tips)
   - [Additional Resources](4.7-security.md#additional-resources)
+
+  ---
+
+  ##### [Next Page >>](4.1-oop.md)
